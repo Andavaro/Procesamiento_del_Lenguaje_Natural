@@ -4,7 +4,7 @@ El procesamiento de lenguaje natural, abreviado NLP por sus siglas en inglés (n
 
 En este repositorio están contenidos los desafíos planteados en el curso de NLP de la Especialización en Inteligencia Artificial de la Universidad de Buenos Aires. A continuación se describen brevemente los 6 desafíos contenidos en el repositorio:
 
-## [Desafío 1] (https://github.com/Andavaro/Procesamiento_del_Lenguaje_Natural/blob/main/1a%20-%20word2vec.ipynb)
+## [Desafío 1](https://github.com/Andavaro/Procesamiento_del_Lenguaje_Natural/blob/main/1a%20-%20word2vec.ipynb)
 > En este desafío se crearon las funciones correspondientes a los conceptos básicos de NLP: obtener el vocabulario, hacer One Hot Encoding, generar los vectores de frecuencia, generar la matriz TF-IDF y calcular la similitud coseno entre documentos.
 
 ## Desafío 2
